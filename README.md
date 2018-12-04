@@ -48,4 +48,4 @@ Rohit Kankhedia
 
 
 
- feedback.    so please go ahead and download this tool using mentioned link and after using it just share your response i would be happy to receive feedback.
+so please go ahead and download this tool using mentioned link and after using it just share your response i would be happy to receive feedback.
