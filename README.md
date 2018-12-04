@@ -1,4 +1,4 @@
-# OAD
+# OAD Outlook Attachment Downloader (ver 1.0)
 OAD- Outlook Attachment Downloader (ver 1.0)
 
 
