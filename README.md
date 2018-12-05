@@ -44,7 +44,8 @@ To Download Click here --->  https://github.com/RohitKankhedia/OAD.git
 Believe in work not in word
 
 
-Rohit Kankhedia
+Rohit Kankhedia ( Python - Outlook Automation)
+Vineet Pandey ( Python -GUI)
 
 
 
